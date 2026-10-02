@@ -1,7 +1,7 @@
 import random
 import mysql.connector
 
-con = mysql.connector.connect(host="localhost", user="root", password="Vinod@24", database="atm_1")
+con = mysql.connector.connect(host="localhost", user="root", password="", database="atm_1")
 cur = con.cursor()
 
 
